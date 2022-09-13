@@ -19,7 +19,7 @@ function AboutMe() {
         <div>
           <div className="hero-image">
           <div className="hero-text">
-            <h5 >Hi I am Louie.</h5>
+            <h5 >Hi I am Thomas Jhonson.</h5>
             <p>Welcome to my page.</p>
           </div>
         </div>

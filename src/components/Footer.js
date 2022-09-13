@@ -5,7 +5,7 @@ function Footer () {
             <footer className="text-center text-lg-start bg-light text-muted">
             <section className="d-flex justify-content-center justify-content-lg-between p-4">
                 <div className="me-5 d-none d-lg-block">
-                <div className='p-4'>This is created by <span className="text-reset fw-bold">© Louie Ip</span></div>
+                <div className='p-4'>This is created by <span className="text-reset fw-bold">© Thomas Jhonson</span></div>
                 </div>
 
                 <div className="text-center p-4">
