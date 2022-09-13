@@ -75,7 +75,7 @@ function Contact() {
                 <div className="row justify-content-center">
                     <div className="col-lg-4 col-md-6 col-sm-8 col-10">
                         <h1 className='title'>Contact</h1>
-                        <p> Message will be sent to my developer Email louieiply@gmail.com </p>
+                        <p> Message will be sent to my developer Email th0m3johnson@gmail.com </p>
                     </div>
                 </div>
                 <div className="row align-items-center justify-content-center">
