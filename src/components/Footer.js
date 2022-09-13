@@ -12,10 +12,10 @@ function Footer () {
                 <a href="https://www.google.com" className="me-4 text-reset">
                     <i className="fab fa-google fa-2x"></i>
                 </a>
-                <a href="https://www.linkedin.com/in/lok-yu-ip-8317651b9/" className="me-4 text-reset">
+                {/* <a href="https://www.linkedin.com/in/lok-yu-ip-8317651b9/" className="me-4 text-reset">
                     <i className="fab fa-linkedin fa-2x"></i>
-                </a>
-                <a href="https://github.com/louieiply" className="me-4 text-reset">
+                </a> */}
+                <a href="https://github.com/ThomasJhonson" className="me-4 text-reset">
                     <i className="fab fa-github fa-2x"></i>
                 </a>
                 <a href="https://stackoverflow.com/users/12144315/uniguyhasproblems" className="me-4 text-reset">
